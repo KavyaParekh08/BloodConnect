@@ -20,7 +20,7 @@ BloodConnect is a web application designed to connect blood donors, recipients, 
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Supabase (Auth, Database, API)
+Backend: Supabase (Auth, Database, API),Python
 
 Database: Supabase PostgreSQL
 
